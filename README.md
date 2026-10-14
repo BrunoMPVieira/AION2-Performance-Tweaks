@@ -20,7 +20,7 @@ Nem todo mundo joga em um PC de última geração. **AION 2 — Tweak de Desempe
 
 ## O que há no aplicativo
 
-- **13 presets prontos**, de Qualidade e Equilibrado a PC modesto, Ultrawide leve · FSR e Massinha experimental.
+- **13 presets prontos**, de Qualidade e Equilibrado a PC modesto, Ultrawide leve · FSR e famoso MODO Massinha experimental.
 - **25 controles individuais** para ajustar sombras, blur, escala/FSR, texturas, vegetação, reflexos, iluminação e efeitos.
 - **Assistente Meu PC**: detecte ou informe RAM, processador e GPU; escolha a prioridade e revise uma sugestão editável.
 - **Presets pessoais** salvos localmente e interface em português ou inglês.
