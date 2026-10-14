@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
+  <title id="title">AION 2 Performance Tweaks · Kharnoxy</title>
+  <desc id="desc">Blue and graphite project banner. Version 2.3.0. 13 presets, 25 tweaks, Portuguese and English.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151D29"/><stop offset="1" stop-color="#283341"/></linearGradient>
+    <linearGradient id="blue" x2="1" y2="1"><stop stop-color="#AFE1FF"/><stop offset="1" stop-color="#328DF2"/></linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#728398" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1440" height="440" rx="26" fill="url(#bg)"/>
+  <rect width="1440" height="440" rx="26" fill="url(#grid)"/>
+  <path d="M1040 -40C800 90 950 310 1480 350M1130 -20C910 110 995 280 1460 280" fill="none" stroke="#89C7FF" stroke-opacity=".13" stroke-width="2"/>
+  <rect x="64" y="62" width="6" height="226" rx="3" fill="url(#blue)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="94" y="88" font-size="17" font-weight="700" letter-spacing="3" fill="#8FCBFF">DEVELOPED BY KHARNOXY</text>
+    <text x="90" y="174" font-size="84" font-weight="800" letter-spacing="-3" fill="#F4F8FD">AION 2</text>
+    <text x="94" y="231" font-size="43" font-weight="600" fill="#F4F8FD">Performance Tweaks</text>
+    <text x="96" y="279" font-size="23" fill="#BCCBD9">Your hardware. Your presets. Your choice.</text>
+    <g font-size="17" font-weight="600" fill="#DCECFB" text-anchor="middle">
+      <rect x="94" y="329" width="158" height="44" rx="22" fill="#334658"/><text x="173" y="357">13 PRESETS</text>
+      <rect x="264" y="329" width="152" height="44" rx="22" fill="#334658"/><text x="340" y="357">25 TWEAKS</text>
+      <rect x="428" y="329" width="162" height="44" rx="22" fill="#334658"/><text x="509" y="357">PT-BR / EN</text>
+      <rect x="602" y="329" width="154" height="44" rx="22" fill="#234E77"/><text x="679" y="357">WINDOWS</text>
+    </g>
+    <g transform="translate(1120 210)">
+      <circle r="133" fill="#83C3FF" fill-opacity=".035" stroke="#83C3FF" stroke-opacity=".16"/>
+      <circle r="110" fill="none" stroke="#83C3FF" stroke-opacity=".14" stroke-dasharray="3 12"/>
+      <path d="M-67 43L-11-63H23L-24 26H-2L16-9H49L22 43ZM20-63H66L10 43H-24Z" fill="url(#blue)"/>
+    </g>
+    <text x="1120" y="396" fill="#8FCBFF" font-size="17" font-weight="600" letter-spacing="3" text-anchor="middle">VERSION 2.3.0</text>
+  </g>
+</svg>

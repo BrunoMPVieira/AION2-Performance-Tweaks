@@ -1,0 +1,10 @@
+# Local game configuration and application state; never publish these files.
+*.ini
+*.log
+*.dat
+*.db
+*.sqlite
+.env
+*.env
+hardware.json
+language.json
